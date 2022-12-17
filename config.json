@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "ophelia - dev",
+  "name": "Ophelia",
+  "ascii": "cveinnt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "",
+    "linkedin": ""
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "contact@opheliadev.com",
+  "ps1_hostname": "ophelia",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
   "colors": {
     "light": {
