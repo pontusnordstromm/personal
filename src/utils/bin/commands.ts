@@ -62,16 +62,15 @@ export const banner = (args?: string[]): string => {
          ░░░░░                                               
 
 
-hi! i'm @opheliadev
+hi! i'm ophelia.
 
 ☕ hobbies: mathematics, programming, philosophy & anime
 🌱 currently learning: algebraic topology
 📫 contact@opheliadev.com
 
-feel free to reach out if you're looking to work on a project.
+feel free to reach out if you're interested in working together.
 
 type 'help' to see the list of available commands. 
 type 'resume' for my latest resume.
-type 'anime' to see what i'm currently watching.
 `;
 };
