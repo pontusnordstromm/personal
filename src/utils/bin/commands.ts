@@ -35,7 +35,6 @@ export const resume = async (args: string[]): Promise<string> => {
   return 'opening latest resume...';
 };
 
-
 // Contact
 export const email = async (args: string[]): Promise<string> => {
   window.open(`mailto:${config.email}`);
