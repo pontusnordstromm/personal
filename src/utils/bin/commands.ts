@@ -18,16 +18,7 @@ export const help = async (args: string[]): Promise<string> => {
 \n${c}\n
 [tab]: trigger completion.
 [ctrl+l]/clear: clear terminal.\n
-Type 'sumfetch' to display summary.
 `;
-};
-
-// About
-export const about = async (args: string[]): Promise<string> => {
-  return `hi there! my name is ophelia.
-
-'sumfetch' - short summary.
-'resume' - my latest resume.`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
