@@ -55,7 +55,7 @@ hi! i'm ophelia.
 
 ☕ hobbies: mathematics, computers, anime/manga & languages
 🌱 currently learning: probability/stochastic processes
-📫 ophelia.rivera@mit.edu
+📫 ophelia_rivera@harvard.edu
 
 feel free to reach out if you're interested in working together.
 
