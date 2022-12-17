@@ -51,7 +51,6 @@ export const banner = (args?: string[]): string => {
                       █████                                              
                      ░░░░░                                               
 
-
 hi! i'm ophelia.
 
 ☕ hobbies: mathematics, computers, anime/manga & languages
