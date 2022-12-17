@@ -55,7 +55,7 @@ export const banner = (args?: string[]): string => {
 hi! i'm ophelia.
 
 ☕ hobbies: mathematics, programming, philosophy & anime
-🌱 currently learning: algebraic topology
+🌱 currently learning: probability/stochastic processes
 📫 ophelia.rivera@stanford.edu
 
 feel free to reach out if you're interested in working together.
