@@ -56,7 +56,7 @@ hi! i'm ophelia.
 
 ☕ hobbies: mathematics, programming, philosophy & anime
 🌱 currently learning: algebraic topology
-📫 contact@opheliadev.com
+📫 ophelia.rivera@stanford.edu
 
 feel free to reach out if you're interested in working together.
 
